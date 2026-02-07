@@ -1,4 +1,4 @@
-# 📚 AI-Powered Library Services Chatbot (ScaleDown API Integrated)
+#  AI-Powered Library Services Chatbot (ScaleDown API Integrated)
 
 ## Overview
 This project is an AI-powered library chatbot that automates catalog search, book holds, renewals, recommendations, event registration, research assistance, and fine reminders.  
@@ -59,3 +59,4 @@ library-services-chatbot/
 pip install fastapi uvicorn python-dotenv requests
 cd backend
 uvicorn main:app --reload
+
